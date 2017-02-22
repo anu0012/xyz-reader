@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee58a99d7f97f9c1f7207856239367887dd5498c">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_099002ea60fd6e7b96e2e159549b364ac62cb6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_93e482fa0a27d3bb9f88db632558143ea76b8aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_c58b76e342710fb528f5b6769764c91e9310fd6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_93e482fa0a27d3bb9f88db632558143ea76b8aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_1c6d727f5e69e648fb33df18888620e59f846b75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_74fbc0078479e6d02544a0fb2d93ea20b76d3753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_d5f27f031531854639df270be925c1b5e58bd8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_d5f27f031531854639df270be925c1b5e58bd8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_1ff66f955fdca497587dcb544ca06f7b9572bc4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_e7b2eda50986254f588350e30ff4b2c985f67019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_0e42a919ac131f1d75ecb63d673bc98b8090152a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_6a92687bba19c3914c83bfdaf6547f307b5f6038/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3936d13e9a65483041378828e7afe0a5162dd234">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0cce6753e0408615473786c68c8335fd42c08f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_4e8e357b93a276c56654e1e64a17e1452ef38e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_6880626e8ce607e5ff3b14bae6c989de9a20336b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_4e8e357b93a276c56654e1e64a17e1452ef38e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_8092a66d9e1b81a2c5c4ee70824946d13be896f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_bb5f755e2f8380744aaf3671ea0bae1f6092d924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3a86f8b61e440f13a9d0eb6acc298e4783b8ae4">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0cce6753e0408615473786c68c8335fd42c08f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee58a99d7f97f9c1f7207856239367887dd5498c">
+        <dex dex="/Users/anuragsharma/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_099002ea60fd6e7b96e2e159549b364ac62cb6e9/classes.dex" />
+    </item>
+
+</items>
